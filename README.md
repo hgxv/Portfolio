@@ -88,7 +88,7 @@ Il y a plusieurs profils utilisateurs selon leur rôle dans l'entreprise :
 Chacun de ces profils dispose de permissions qui leur sont propres.
 
 Voici une représentation de la base de données :
-![Demo API](/images/12_bdd.PNG)
+![Demo API](/images/12_bdd.png)
 
 # Django - Devops et architecture modulaire
 
