@@ -90,6 +90,8 @@ Chacun de ces profils dispose de permissions qui leur sont propres.
 Voici une représentation de la base de données :
 ![Demo API](/images/12_bdd.png)
 
+https://github.com/hgxv/12_Secure_Backend_Django
+
 # Django - Devops et architecture modulaire
 
 Ce projet est un fork de [ce repo](https://github.com/OpenClassrooms-Student-Center/Python-OC-Lettings-FR).
@@ -102,3 +104,5 @@ Il est décomposé en 5 parties distinctes :
 - Création de la documentation technique de l’application avec Read The Docs et Sphinx.
 
 ![Demo API](/images/13_show.PNG)
+
+https://github.com/hgxv/13_Deployment_lettings
