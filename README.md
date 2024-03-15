@@ -46,7 +46,7 @@ https://github.com/hgxv/4_OC_MVC_ChessTournament
 
 # Projet Front - Carrousel style Netflix
 
-Pour ce projet, il est nécessaire de lancer l'API fournie par Openclassroom, qui génère une base de données
+Pour ce projet, il est nécessaire de lancer l'API fournie [ici](https://github.com/OpenClassrooms-Student-Center/OCMovies-API-EN-FR), qui génère une base de données
 contenant une liste de films et ses caractéristiques.
 Il présente des carrousels contenant les films les mieux notées sur imdb par catégories.
 
